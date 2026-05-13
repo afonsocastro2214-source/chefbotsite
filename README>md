@@ -1,0 +1,12 @@
+# ChefBotSite
+
+Chef na sua cozinha!
+
+## Como usar
+
+npm install
+npm start
+
+## Deploy
+
+npm run build
